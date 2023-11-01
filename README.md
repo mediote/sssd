@@ -1,2 +1,2 @@
 # sssd
-SSSD: Semaantic Search Stance Detection
+SSSD: Semantic Search Stance Detection
