@@ -41,33 +41,38 @@ Before starting 🏁, ensure you have the following tools installed:
 
 Follow these steps to get your development environment set up:
 
-### 1-Clone the Repository
+### 1 - Clone the Repository
 
 ```bash
   git clone https://github.com/mediote/sssd.git
   cd sssd
 ```
 
-### 2-Create and Activate a Virtual Environment
+### 2 - Create and Activate a Virtual Environment
 
 ```bash
   python3 -m venv venv
   source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
 
-### 3-Install Dependencies
+### 3 - Install Dependencies
 
 ```bash
   pip install -r requirements.txt
 ```
 
-### 4-Install the Jupyter extension for VSCode
+### 4 - Install the Jupyter extension for VSCode
 
 You can do this from within VSCode by searching for "Jupyter" in the Extensions view or by running the following command in your terminal.
 
 ```bash
   code --install-extension ms-toolsai.jupyter
 ```
+
+## Datasets
+
+To access the datasets used in our analyses, please feel free to reach out for more information at: mediote90@gmail.com
+
 
 ## Citation
 
