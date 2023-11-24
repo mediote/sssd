@@ -24,7 +24,7 @@ For more detailed information, please refer to the full paper:
 
 - [Python](https://python.org.br/)
 - [Sentence Transformers](https://sbert.net/)
-- [Pretrained Models](https://www.sbert.net/docs/pretrained_models.html/)
+- [Pretrained Models](https://sbert.net/docs/pretrained_models.html)
 - [Semantic Search](https://www.sbert.net/examples/applications/semantic-search/)
 - [scikt-learn](https://scikit-learn.org/stable/index.html)
 - [MLFlow](https://www.mlflow.org/)
