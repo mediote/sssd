@@ -12,6 +12,7 @@
   <!-- Badges -->
 </p>
 
+
 ## About
 
 SSSD (Semantic Search Stance Detection) is a innovative method based on the Low-shot Learning paradigm for Stance Detection (SD). This technique employs Pre-trained Models (PTMs) to optimize SD in tweets through Semantic Search. SSSD is capable of interpreting context and efficiently classifying tweet content, requiring only a small set of labeled examples. This substantially reduces the manual labeling effort and resources necessary for training SD models. The proposed strategy enhances SD precision by filtering irrelevant content and focusing on the most pertinent posts. SSSD stands out as a pioneer in integrating PTMs and Semantic Search, facilitating the overcoming of challenges related to the scarcity of labeled data and enhancing SD in social media. In experiments referencing the SemEval-2016 competition, SSSD surpassed all established benchmarks, showcasing significant potential in resource savings. A qualitative analysis was also conducted to evaluate the efficacy of SSSD in detecting stances related to the vaccination campaign in Brazil during the COVID-19 pandemic. The results confirm that SSSD achieves good results even with a limited volume of labeled data, distinguishing itself positively compared to other methodologies.
@@ -19,6 +20,17 @@ SSSD (Semantic Search Stance Detection) is a innovative method based on the Low-
 For more detailed information, please refer to the full paper:
 
 - [SSSD](https://aclanthology.org/2023.ranlp-1.30.pdf)
+
+## Components
+
+### 1 - Semantic Labeling
+
+![image](https://github.com/mediote/sssd/assets/25845947/96fccf1a-f41d-44a9-a7fa-7e6845b60181)
+
+### 2 -  Stance Detection
+
+![image](https://github.com/mediote/sssd/assets/25845947/fc893bd3-61b2-4716-ab4c-c3f32fa5692a)
+
 
 ## Technologies Used
 
