@@ -21,17 +21,6 @@ For more detailed information, please refer to the full paper:
 
 - [SSSD](https://aclanthology.org/2023.ranlp-1.30.pdf)
 
-## Components
-
-### 1 - Semantic Labeling
-
-![image](https://github.com/mediote/sssd/assets/25845947/96fccf1a-f41d-44a9-a7fa-7e6845b60181)
-
-### 2 -  Stance Detection
-
-![image](https://github.com/mediote/sssd/assets/25845947/fc893bd3-61b2-4716-ab4c-c3f32fa5692a)
-
-
 ## Technologies Used
 
 - [Python](https://python.org.br/)
